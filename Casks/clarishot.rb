@@ -1,6 +1,6 @@
 cask "clarishot" do
-  version "0.3.0"
-  sha256 "a1341d8f38148d720eb2b52dcadc9eda8d5726bc884e100a43254c9b7dd31ab0"
+  version "0.3.1"
+  sha256 "da92518360ff614f62ae01c8d3327e1f192458d9b3f18c0cf729fc627d24880b"
 
   url "https://github.com/iDevEngineer/clarishot/releases/download/v#{version}/Clarishot-#{version}.zip"
   name "Clarishot"
